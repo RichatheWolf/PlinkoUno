@@ -1,2 +1,4 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Plinko game,
+v1
+incomplete
+requires massive corrections and help because coder is unable to understand how to translate english into code.
